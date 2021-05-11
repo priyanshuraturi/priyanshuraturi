@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-### 🔭 I’m interested Cyber Security,AI & ML 
-### 🌱 I’m currently learning Neural Networks
-### 🤔 I’m looking for help with CTF's and Pentesting
+### 🔭 I’m interested Backend Web Development 
+### 🌱 I’m currently learning Node Js and MongoDB
 ### :handshake: Open To Colaborate
 
 ### Languages
