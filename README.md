@@ -17,4 +17,4 @@
 
 ### Language stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuraturi)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuraturi&layout=compact&langs_count=8)
